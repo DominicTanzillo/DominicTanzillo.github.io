@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,27 +15,28 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
+  name = "Machine Learning"
+  parcent = ""
+  
   
 [[feature]]
-  icon = "user-secret"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
+  name = "Teaching"
+  parcent = ""
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
-  
-[[feature]]
-  icon = "searchengin"
+  icon = "python"
   icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  name = "Python"
+  parcent = ""
+  
+ [[feature]]
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Mathematical Modeling"
+  parcent = ""
 
 +++
