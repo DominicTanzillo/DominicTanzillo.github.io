@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Researcher"
-  company = "University X"
+  company = "Wang Lab"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
