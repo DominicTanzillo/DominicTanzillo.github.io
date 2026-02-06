@@ -7,17 +7,17 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dominictanzillo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dominictanzillo.github.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>https://dominictanzillo.github.io/project/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://dominictanzillo.github.io/talk/</guid>
+      <guid>https://dominictanzillo.github.io/project/</guid>
       <description></description>
     </item>
     
@@ -27,24 +27,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dominictanzillo.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast</title>
-      <link>https://dominictanzillo.github.io/podcast/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dominictanzillo.github.io/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://dominictanzillo.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dominictanzillo.github.io/project/</guid>
       <description></description>
     </item>
     
@@ -63,6 +45,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dominictanzillo.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://dominictanzillo.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominictanzillo.github.io/talk/</guid>
       <description></description>
     </item>
     

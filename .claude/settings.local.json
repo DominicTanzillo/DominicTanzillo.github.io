@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(xargs -I {} sh -c 'echo \"\"=== {} ===\"\" && grep -o \"\"<title>[^<]*</title>\"\" {} | head -1')",
+      "Bash(wc:*)",
+      "Bash(gh repo list:*)",
+      "Bash(hugo version:*)",
+      "Bash(winget install:*)",
+      "Bash(magick:*)",
+      "Bash(convert:*)",
+      "Bash(python:*)",
+      "Bash(export PATH=\"/c/Users/virtu/AppData/Local/Microsoft/WinGet/Links:$PATH\")",
+      "Bash(HUGO=\"/c/Users/virtu/AppData/Local/Microsoft/WinGet/Packages/Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe/hugo.exe\")",
+      "Bash(\"$HUGO\" version)",
+      "Bash(\"$HUGO\" --configDir config/_default)",
+      "Bash(\"$HUGO\")",
+      "Bash(/tmp/hugo-old/hugo.exe)",
+      "Bash(/tmp/hugo-old/hugo.exe:*)",
+      "Bash(git clone:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(xargs rm -rf:*)"
+    ]
+  }
+}
