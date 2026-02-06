@@ -21,7 +21,13 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(xargs rm -rf:*)"
+      "Bash(xargs rm -rf:*)",
+      "Bash(gh secret set:*)",
+      "WebFetch(domain:www.aamc.org)",
+      "WebFetch(domain:bassconnections.duke.edu)",
+      "Bash(cmd.exe /c \"rename \"\"C:\\\\Users\\\\virtu\\\\Documents\\\\website-code\\\\content\\\\courses\"\" education_work\")",
+      "Bash(git rm:*)",
+      "Bash(rsync:*)"
     ]
   }
 }
