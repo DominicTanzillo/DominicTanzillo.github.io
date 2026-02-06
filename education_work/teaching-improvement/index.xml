@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Improvement Activities on Dominic Tanzillo</title>
-    <link>https://dominictanzillo.github.io/education_work/teaching-improvement/</link>
+    <link>https://tanzillo.me/education_work/teaching-improvement/</link>
     <description>Recent content in Teaching Improvement Activities on Dominic Tanzillo</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dominictanzillo.github.io/education_work/teaching-improvement/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://tanzillo.me/education_work/teaching-improvement/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

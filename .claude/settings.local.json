@@ -27,7 +27,8 @@
       "WebFetch(domain:bassconnections.duke.edu)",
       "Bash(cmd.exe /c \"rename \"\"C:\\\\Users\\\\virtu\\\\Documents\\\\website-code\\\\content\\\\courses\"\" education_work\")",
       "Bash(git rm:*)",
-      "Bash(rsync:*)"
+      "Bash(rsync:*)",
+      "Bash(curl:*)"
     ]
   }
 }
