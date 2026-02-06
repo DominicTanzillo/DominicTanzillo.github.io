@@ -28,7 +28,9 @@
       "Bash(cmd.exe /c \"rename \"\"C:\\\\Users\\\\virtu\\\\Documents\\\\website-code\\\\content\\\\courses\"\" education_work\")",
       "Bash(git rm:*)",
       "Bash(rsync:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(nslookup:*)",
+      "Bash(gh api:*)"
     ]
   }
 }
