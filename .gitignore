@@ -2,3 +2,6 @@
 .DS_Store
 Thumbs.db
 .idea/
+
+# Local Claude Code state (not part of the published site)
+.claude/duke-idea-to-paper.*
