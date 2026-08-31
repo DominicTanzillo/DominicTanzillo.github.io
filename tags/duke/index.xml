@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duke on Dominic Tanzillo</title>
+    <link>https://tanzillo.me/tags/duke/</link>
+    <description>Recent content in Duke on Dominic Tanzillo</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://tanzillo.me/tags/duke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idea to Paper at Duke</title>
+      <link>https://tanzillo.me/resources/idea-to-paper/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/resources/idea-to-paper/</guid>
+      <description>&lt;p&gt;A working guide for students, residents, and anyone else starting human subjects research at Duke. Written mainly for retrospective work, since that is where most first projects start. Departments handle some of this differently, so confirm the details with your division&amp;rsquo;s research office.&lt;/p&gt;
+&lt;h2 id=&#34;step-0-finish-citi-and-rcr-now&#34;&gt;Step 0. Finish CITI and RCR now&lt;/h2&gt;
+&lt;p&gt;You cannot be listed on a protocol or submit in &lt;a href=&#34;https://irb.duhs.duke.edu/iris&#34;&gt;iRIS&lt;/a&gt; until your &lt;a href=&#34;https://www.citiprogram.org/&#34;&gt;CITI&lt;/a&gt; human subjects modules and &lt;a href=&#34;https://myresearchpath.duke.edu/rcr-training-duhs-irb-study-personnel&#34;&gt;RCR&lt;/a&gt; are complete. The DUHS IRB keeps the current requirements on its &lt;a href=&#34;https://irb.duhs.duke.edu/training-resources&#34;&gt;Training &amp;amp; Resources&lt;/a&gt; page, and Duke&amp;rsquo;s &lt;a href=&#34;https://research.duke.edu/policy/required-training/&#34;&gt;required training policy&lt;/a&gt; covers the rest. Add the two DOCR modules on IRB overview and PI responsibilities. Do this before you have a project. It is the only prerequisite you can clear while waiting on everything else, and an unfinished module holds up the whole team&amp;rsquo;s amendment.&lt;/p&gt;
+&lt;h2 id=&#34;step-1-get-irb-coverage&#34;&gt;Step 1. Get IRB coverage&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Find a faculty PI first.&lt;/strong&gt; Only regular-rank faculty can hold PI or co-PI on a &lt;a href=&#34;https://irb.duhs.duke.edu/&#34;&gt;Duke Health IRB&lt;/a&gt; protocol. Students, residents, and fellows go on as key study personnel. A department chair can petition the IRB Executive Director for an exception.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ask what already exists.&lt;/strong&gt; Umbrella and registry protocols are common at Duke and almost never advertised to trainees. Amending one takes days to a few weeks. A new protocol takes weeks to months. Ask your division before you draft anything.&lt;/p&gt;
+&lt;p&gt;If you need a new protocol:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pick the IRB.&lt;/strong&gt; &lt;a href=&#34;https://irb.duhs.duke.edu/irb-process/getting-started&#34;&gt;Duke Health IRB&lt;/a&gt; for anything involving Duke Health patients, records, staff, or facilities. &lt;a href=&#34;https://research.duke.edu/campusirb/&#34;&gt;Campus IRB&lt;/a&gt; for non-health human subjects work. Both run on &lt;a href=&#34;https://irb.duhs.duke.edu/iris&#34;&gt;iRIS&lt;/a&gt;. If you are genuinely unsure which applies, Duke publishes &lt;a href=&#34;https://myresearchpath.duke.edu/selecting-appropriate-irb-guidance&#34;&gt;guidance on selecting the appropriate IRB&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pick the application type.&lt;/strong&gt; Regular Study Application if you are unsure, since the IRB decides expedited versus full board itself. Application for Exemption if it plainly qualifies. External IRB application for multi-site work with another IRB of record.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ask for the waivers explicitly.&lt;/strong&gt; Retrospective chart review needs a waiver of consent and a waiver of HIPAA authorization, each with written justification. Omitting them is the most common reason a chart review comes back for revision.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write it wide.&lt;/strong&gt; Use the broadest population, date range, and variable list you can defend against the aims you state. Every follow-on question then becomes an amendment instead of a new submission. This is the single highest-leverage decision in the whole process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Include the data plan.&lt;/strong&gt; The &lt;a href=&#34;https://myresearchpath.duke.edu/duke-research-data-lifecycle-drdl-plan-guidance&#34;&gt;Duke Research Data Lifecycle (DRDL) plan&lt;/a&gt; says where data live, who holds them, and what happens at closure. It is required for every DUHS IRB submission.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;If you need counts before approval,&lt;/strong&gt; file a Review Preparatory to Research. You can look at identifiable data under it to assess feasibility. You cannot record anything for the study.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read the letter you get back.&lt;/strong&gt; A Declaration of Exemption generally lets you begin. An approval notice may still require separate institutional sign-off before any activity involving participants.&lt;/p&gt;
+&lt;h2 id=&#34;step-2-add-your-people&#34;&gt;Step 2. Add your people&lt;/h2&gt;
+&lt;p&gt;Key study personnel status is what makes someone real to every other Duke system. Until a person is KSP on the approved protocol, they cannot be added to your REDCap project, granted study data access, or legitimately review a chart for you.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personnel changes are amendments, so batch them. Adding six people once costs far less time than adding one person six times.&lt;/li&gt;
+&lt;li&gt;Add anyone plausibly involved in the next year, including the person who will build your database.&lt;/li&gt;
+&lt;li&gt;Everyone needs their own &lt;a href=&#34;https://www.citiprogram.org/&#34;&gt;CITI&lt;/a&gt;, &lt;a href=&#34;https://myresearchpath.duke.edu/rcr-training-duhs-irb-study-personnel&#34;&gt;RCR&lt;/a&gt;, and LMS modules finished first. Duke Ortho&amp;rsquo;s &lt;a href=&#34;https://ortho.duke.edu/research/clinical-research-portal/onboarding&#34;&gt;research onboarding page&lt;/a&gt; is the clearest public checklist of what a new person actually has to clear.&lt;/li&gt;
+&lt;li&gt;External collaborators, adjunct faculty, undergraduates, and volunteers need a separate designation and often an agreement. Start those first, since they take longest.&lt;/li&gt;
+&lt;li&gt;Add a research coordinator even if they will do no work. It gives you someone with system access and standing when something breaks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A student who joins in June, finishes CITI in July, and gets added by amendment in August has lost the summer. Work backward from when you want people abstracting.&lt;/p&gt;
+&lt;h2 id=&#34;step-3-stand-up-redcaphttpsmedschooldukeeduresearchresearch-supportresearch-support-officesduke-office-clinical-research-docrget-docr-4-under-the-protocol&#34;&gt;Step 3. Stand up &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/get-docr-4&#34;&gt;REDCap&lt;/a&gt; under the protocol&lt;/h2&gt;
+&lt;p&gt;Build the instrument backward from the table you intend to publish. Every field should have a destination in an analysis, and every value should be coded rather than free text.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Development first, then production.&lt;/strong&gt; Move the project to production before any live data are entered. Duke&amp;rsquo;s instance lives at &lt;a href=&#34;https://redcap.duke.edu/redcap/&#34;&gt;redcap.duke.edu&lt;/a&gt;; the &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/docr-policies&#34;&gt;DOCR REDCap policies&lt;/a&gt; govern secure usage and user roles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Match the protocol exactly.&lt;/strong&gt; IRB number, PI, and personnel list. Divergence between the two is what audits find.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Decide who builds it.&lt;/strong&gt; Do it yourself for a single-form chart review with roughly 60 fields or fewer. Use the DOCR data team for longitudinal designs, randomization, branching survey logic, eConsent, or external data feeds. DOCR work runs through &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/docr-2&#34;&gt;the service center&lt;/a&gt;, which means an estimate and a fund code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Line up funding early.&lt;/strong&gt; A fund code is required for DOCR build work and for PACE access. Usual sources are the PI&amp;rsquo;s grant, division or department research funds, &lt;a href=&#34;https://ctsi.duke.edu/ctsi-consults&#34;&gt;CTSI&lt;/a&gt; vouchers, and medical student research awards.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write the data dictionary as you go.&lt;/strong&gt; Field notes, validation ranges, and coded value labels are what let someone else reproduce the dataset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whoever builds the project has to be key study personnel before they open it.&lt;/p&gt;
+&lt;h2 id=&#34;step-4-build-the-data&#34;&gt;Step 4. Build the data&lt;/h2&gt;
+&lt;p&gt;Cohort identification and abstraction are separate problems. Validate them separately.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identify the cohort two ways and reconcile the difference.&lt;/strong&gt; SlicerDicer, the self-service reporting tool inside &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/get-docr-5&#34;&gt;Maestro Care&lt;/a&gt;, gives population counts and needs either an approved protocol or an approved Review Preparatory to Research, plus the nonlicensed clinical research coordinator security template. DEDUCE handles self-service queries against the Duke data warehouse, including uploading a patient list or searching note text — something SlicerDicer cannot do. Both are catalogued under &lt;a href=&#34;https://ctsi.duke.edu/research-support/discoverdataduke&#34;&gt;DiscoverData@Duke&lt;/a&gt; and the School of Medicine &lt;a href=&#34;https://medschool.duke.edu/research/data-science/data/data-services-catalog&#34;&gt;Data Services Catalog&lt;/a&gt;, which is the fastest way to work out which resource fits your question. Where the two disagree, your inclusion definition has a hole in it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Request accounts early.&lt;/strong&gt; DEDUCE goes through ServiceNow plus its LMS training. &lt;a href=&#34;https://medschool.duke.edu/pace&#34;&gt;PACE&lt;/a&gt;, the Protected Analytics Computing Environment, requires an approved study, a fund code, and PACE training before the intake form, then runs over Citrix. You must be key study personnel on a study with approved or exempt status, and you will need a CoreResearch@Duke service request ID for billing. The PACE and DEDUCE portals themselves (&lt;code&gt;pace.ori.duke.edu&lt;/code&gt; and &lt;code&gt;deduce.duhs.duke.edu&lt;/code&gt;) resolve only from the Duke network or VPN, so open them from a Duke connection.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep unconsented PHI in PACE.&lt;/strong&gt; Moving a de-identified extract out of the enclave requires an &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/oasis/school-medicine-research-enclave-sre-3&#34;&gt;Honest Broker&lt;/a&gt; transfer request. Plan that into the timeline. Your statistician may have no enclave access at all; the &lt;a href=&#34;https://biostat.duke.edu/research/biostatistics-epidemiology-and-research-design-berd-methods-core&#34;&gt;BERD Methods Core&lt;/a&gt; can advise before that becomes a problem.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Double abstract a sample.&lt;/strong&gt; Two abstractors on the first twenty charts, a kappa, and a written rule for adjudicating disagreements. It costs a day and it is the difference between a defensible methods paragraph and a reviewer question you cannot answer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Log deviations as they happen.&lt;/strong&gt; Charts excluded and why, definitions that shifted, fields that turned out unusable. This becomes your flow diagram and half your limitations section.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;step-5-analyze-write-submit&#34;&gt;Step 5. Analyze, write, submit&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lock the analysis plan before you look at the outcome.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write to the reporting guideline from the first draft.&lt;/strong&gt; &lt;a href=&#34;https://www.strobe-statement.org/&#34;&gt;STROBE&lt;/a&gt; for observational work, &lt;a href=&#34;https://www.care-statement.org/&#34;&gt;CARE&lt;/a&gt; for case reports, &lt;a href=&#34;https://www.prisma-statement.org/&#34;&gt;PRISMA&lt;/a&gt; for systematic reviews, &lt;a href=&#34;https://www.tripod-statement.org/&#34;&gt;TRIPOD&lt;/a&gt; for prediction models. The &lt;a href=&#34;https://www.equator-network.org/&#34;&gt;EQUATOR Network&lt;/a&gt; indexes the rest. Many journals want the completed checklist at submission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Settle authorship early,&lt;/strong&gt; using the &lt;a href=&#34;https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html&#34;&gt;ICMJE authorship criteria&lt;/a&gt;, including order. Five minutes in month one, unrecoverable in month nine.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plan the journal cascade before you write.&lt;/strong&gt; A target, two realistic fallbacks, and a floor, with format requirements checked in advance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep the protocol alive.&lt;/strong&gt; File continuing review on schedule and amend for new aims or new personnel. A lapsed protocol can invalidate analyses run after the lapse, which is easy to trigger when a reviewer asks for an additional analysis during revisions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Send the next question back through an amendment.&lt;/strong&gt; That is the payoff for writing the protocol wide in step 1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;four-things-that-save-the-most-time&#34;&gt;Four things that save the most time&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finish CITI and RCR before you have a project.&lt;/li&gt;
+&lt;li&gt;Ask your division what protocols already exist before drafting a new one.&lt;/li&gt;
+&lt;li&gt;Over-add personnel on the first amendment.&lt;/li&gt;
+&lt;li&gt;Identify a fund code before DOCR or PACE asks for one.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;where-to-go-for-each-system&#34;&gt;Where to go for each system&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Training&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.citiprogram.org/&#34;&gt;CITI Program&lt;/a&gt; and &lt;a href=&#34;https://myresearchpath.duke.edu/rcr-training-duhs-irb-study-personnel&#34;&gt;RCR for DUHS IRB study personnel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://irb.duhs.duke.edu/training-resources&#34;&gt;DUHS IRB Training &amp;amp; Resources&lt;/a&gt; and Duke&amp;rsquo;s &lt;a href=&#34;https://research.duke.edu/policy/required-training/&#34;&gt;required training policy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;IRB&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://irb.duhs.duke.edu/&#34;&gt;Duke Health IRB&lt;/a&gt; — &lt;a href=&#34;https://irb.duhs.duke.edu/irb-process/getting-started&#34;&gt;Getting Started&lt;/a&gt;, &lt;a href=&#34;https://irb.duhs.duke.edu/researchers&#34;&gt;Researchers&lt;/a&gt;, &lt;a href=&#34;https://irb.duhs.duke.edu/iris&#34;&gt;iRIS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://research.duke.edu/campusirb/&#34;&gt;Campus IRB&lt;/a&gt; for non-health human subjects work&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://myresearchpath.duke.edu/selecting-appropriate-irb-guidance&#34;&gt;Selecting the appropriate IRB&lt;/a&gt; if you are unsure which one you need&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://myresearchpath.duke.edu/duke-research-data-lifecycle-drdl-plan-guidance&#34;&gt;Duke Research Data Lifecycle (DRDL) plan guidance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data capture&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/get-docr-4&#34;&gt;REDCap at Duke&lt;/a&gt; and the &lt;a href=&#34;https://redcap.duke.edu/redcap/&#34;&gt;instance itself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/docr-2&#34;&gt;DOCR services and support&lt;/a&gt; and &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/docr-policies&#34;&gt;DOCR policies and procedures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Finding and holding the data&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/duke-office-clinical-research-docr/get-docr-5&#34;&gt;Maestro Care for Research&lt;/a&gt; — where SlicerDicer lives&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctsi.duke.edu/research-support/discoverdataduke&#34;&gt;DiscoverData@Duke&lt;/a&gt; and the &lt;a href=&#34;https://medschool.duke.edu/research/data-science/data/data-services-catalog&#34;&gt;Data Services Catalog&lt;/a&gt; — how to choose between DEDUCE, SlicerDicer, and the rest&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medschool.duke.edu/pace&#34;&gt;PACE / School of Medicine Research Enclave&lt;/a&gt; and &lt;a href=&#34;https://medschool.duke.edu/research/research-support/research-support-offices/oasis/school-medicine-research-enclave-sre-3&#34;&gt;Honest Broker transfer agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The PACE and DEDUCE portals (&lt;code&gt;pace.ori.duke.edu&lt;/code&gt;, &lt;code&gt;deduce.duhs.duke.edu&lt;/code&gt;) are reachable only from the Duke network or VPN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Analysis and writing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://biostat.duke.edu/research/biostatistics-epidemiology-and-research-design-berd-methods-core&#34;&gt;BERD Methods Core&lt;/a&gt; and &lt;a href=&#34;https://ctsi.duke.edu/ctsi-consults&#34;&gt;CTSI consults&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.equator-network.org/&#34;&gt;EQUATOR Network&lt;/a&gt; — &lt;a href=&#34;https://www.strobe-statement.org/&#34;&gt;STROBE&lt;/a&gt;, &lt;a href=&#34;https://www.care-statement.org/&#34;&gt;CARE&lt;/a&gt;, &lt;a href=&#34;https://www.prisma-statement.org/&#34;&gt;PRISMA&lt;/a&gt;, &lt;a href=&#34;https://www.tripod-statement.org/&#34;&gt;TRIPOD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html&#34;&gt;ICMJE authorship criteria&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Department-level write-ups&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Duke Orthopaedics publishes the most detailed public account of the DEDUCE, PACE, and key-study-personnel mechanics — useful whatever your department:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ortho.duke.edu/research/clinical-research-portal/clinical-research-faq&#34;&gt;Clinical research FAQ&lt;/a&gt;, &lt;a href=&#34;https://ortho.duke.edu/research/clinical-research-portal/onboarding&#34;&gt;research onboarding&lt;/a&gt;, and &lt;a href=&#34;https://ortho.duke.edu/research/coords/orthopaedic-data-resources&#34;&gt;orthopaedic data resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Links verified August 2026. Duke reorganizes these pages regularly; if one has moved, search from &lt;a href=&#34;https://myresearchpath.duke.edu/&#34;&gt;myResearchPath&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,6 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://tanzillo.me/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +15,62 @@
     <item>
       <title></title>
       <link>https://tanzillo.me/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://tanzillo.me/authors/admin/</guid>
-      <description>&lt;p&gt;Dominic&amp;rsquo;s work is fundamentally about deploying medical systems in low-resource settings. From building &lt;a href=&#34;https://bassconnections.duke.edu/project/virtual-reality-health-education-advanced-learning-vr-heal-2024-2025/&#34;&gt;virtual reality education platforms&lt;/a&gt; to train without the use of expensive medical equipment, to designing applications that can &lt;a href=&#34;https://skintaglabs.github.io/main/&#34;&gt;screen for cancer from a phone&lt;/a&gt; without an internet connection, his work is about making health more accessible. He thinks of it as making tools that will work in space but focused on real-world applications here on Earth — tying a line between global health and space medicine. He writes about his MEng work on his &lt;a href=&#34;https://dominictanzillo.substack.com/&#34;&gt;Substack&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Dominic is a fourth-year medical student at Duke University, simultaneously completing a Masters of Engineering in Artificial Intelligence from Duke&amp;rsquo;s Pratt School of Engineering. His research on coagulation risks in microgravity earned him the &lt;a href=&#34;https://medschool.duke.edu/stories/medical-mystery-microgravity-can-space-travel-raise-risk-blood-clots&#34;&gt;Donald B. Hackel Fellowship in Cardiovascular Pathology&lt;/a&gt;, and he received the Barr-Spach Scholarship to support his MEng degree.&lt;/p&gt;
+      <description>&lt;p&gt;Dominic&amp;rsquo;s work is fundamentally about deploying medical systems in low-resource settings. From building &lt;a href=&#34;https://bassconnections.duke.edu/project/virtual-reality-health-education-advanced-learning-vr-heal-2024-2025/&#34;&gt;virtual reality education platforms&lt;/a&gt; to train without the use of expensive medical equipment, to designing applications that can &lt;a href=&#34;https://skintaglabs.github.io/main/&#34;&gt;screen for cancer from a phone&lt;/a&gt; without an internet connection, his work is about making health more accessible. He thinks of it as making tools that will work in space but focused on real-world applications here on Earth — tying a line between global health and space medicine. He writes about that work on his &lt;a href=&#34;https://dominictanzillo.substack.com/&#34;&gt;Substack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dominic is a medical student at Duke University. He completed a Master of Engineering in Artificial Intelligence at Duke&amp;rsquo;s Pratt School of Engineering in 2026, supported by the Barr-Spach Scholarship, and his research on coagulation risks in microgravity earned him the &lt;a href=&#34;https://medschool.duke.edu/stories/medical-mystery-microgravity-can-space-travel-raise-risk-blood-clots&#34;&gt;Donald B. Hackel Fellowship in Cardiovascular Pathology&lt;/a&gt;. He expects to receive his MD in 2028.&lt;/p&gt;
+&lt;p&gt;He is spending the current year as a student researcher with the &lt;a href=&#34;https://spaceinitiative.duke.edu/&#34;&gt;Duke SPACE Initiative&lt;/a&gt; — Science and Policy to Advance Cosmic Exploration — where his work extends the AI thread of his engineering degree into bioethics. His most recent paper, &lt;a href=&#34;https://doi.org/10.1080/15265161.2026.2709545&#34;&gt;&lt;em&gt;Quotidian Harms, Vanishing Hands&lt;/em&gt;&lt;/a&gt;, written with Benjamin Frush in &lt;em&gt;The American Journal of Bioethics&lt;/em&gt;, asks who remains accountable when clinical decisions are distributed across an AI system and the hands that made them are no longer visible. Further work on AI ethics in clinical and spaceflight medicine is in progress.&lt;/p&gt;
 &lt;p&gt;He co-taught the &lt;a href=&#34;https://bassconnections.duke.edu/project/virtual-reality-health-education-advanced-learning-vr-heal-2024-2025/&#34;&gt;VR-HEAL&lt;/a&gt; Duke Bass Connections course (2024–2025), developing virtual reality software for training on tunneled catheter procedures and augmenting the way interventional radiology procedures are taught. The team won the &lt;a href=&#34;https://bassconnections.duke.edu/news/bass-connections-teams-share-research-highlights-2025-showcase/&#34;&gt;2025 Fortin Foundation Bass Connections Showcase&lt;/a&gt; for best showcase work.&lt;/p&gt;
 &lt;p&gt;Since February 2023, he has led Duke COMIDA (Customized Outreach for Mothers in Need of Dietary Assistance), a Chancellor&amp;rsquo;s Fellowship Grant project dedicated to supporting Hispanic women through their gestational diabetes.&lt;/p&gt;
 &lt;p&gt;To help other students discover the field of space medicine, he has worked with Duke University and &lt;a href=&#34;https://www.bcm.edu/academic-centers/space-medicine/translational-research-institute&#34;&gt;Baylor College of Medicine&amp;rsquo;s Translational Research Institute for Space Health&lt;/a&gt; (TRISH) to produce several courses. He and his co-instructor produced the first undergraduate-taught digital course: &lt;a href=&#34;https://www.coursera.org/learn/space-medicine-duke&#34;&gt;Space Medicine&lt;/a&gt; with &lt;a href=&#34;https://learninginnovation.duke.edu/blog/2021/05/learn-space-medicine-from-the-comfort-of-home/&#34;&gt;Duke Learning Innovation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Dominic is also passionate about medical education. Since August 2024, he has served as a Duke Anatomy Teaching Assistant, introducing first-year medical students to anatomy through leading live dissections, running weekly review sessions, and developing customized education modules for students with learning accommodations.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Benjamin Frush</title>
+      <link>https://tanzillo.me/authors/benjamin-frush/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/authors/benjamin-frush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel A. Lim</title>
+      <link>https://tanzillo.me/authors/daniel-a.-lim/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/authors/daniel-a.-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John F. Burke</title>
+      <link>https://tanzillo.me/authors/john-f.-burke/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/authors/john-f.-burke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul S. Larson</title>
+      <link>https://tanzillo.me/authors/paul-s.-larson/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/authors/paul-s.-larson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip A. Starr</title>
+      <link>https://tanzillo.me/authors/philip-a.-starr/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/authors/philip-a.-starr/</guid>
+      <description></description>
     </item>
     
   </channel>

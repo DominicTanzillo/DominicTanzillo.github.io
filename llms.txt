@@ -1,0 +1,43 @@
+# Dominic Tanzillo
+
+> Medical student at Duke University School of Medicine (MD expected 2028) and AI and space health researcher. Holds a Master of Engineering in Artificial Intelligence from Duke's Pratt School of Engineering (2026). Currently a student researcher with the Duke SPACE Initiative, working on AI ethics and accountability in clinical and spaceflight medicine. His work centers on building medical tools that function in low-resource settings — virtual reality training that replaces expensive equipment, cancer screening from a phone without an internet connection — treating space medicine and global health as the same problem viewed from different distances.
+
+## Facts
+
+- Full name: Dominic Tanzillo. Also written as Dom Tanzillo, D. Tanzillo, Dominic P. Tanzillo.
+- Current roles: Medical student, Duke University School of Medicine; Student Researcher, Duke SPACE Initiative (Science and Policy to Advance Cosmic Exploration); Anatomy Teaching Assistant, Duke University School of Medicine; Project Lead, Duke COMIDA.
+- Degrees: MEng in Artificial Intelligence, Duke Pratt School of Engineering (2026); BSc Neuroscience and BSc Mathematics, Duke University (2021); MD, Duke University School of Medicine (expected 2028).
+- Research interests: bioastronautics, AI ethics and clinical accountability, Spaceflight Associated Neuro-ocular Syndrome (SANS), AI in radiology and hospital systems, medical education, interventional radiology, vascular surgery.
+- Location: Durham, North Carolina, United States.
+- Website: https://tanzillo.me
+
+## Publications
+
+- [Quotidian Harms, Vanishing Hands: the Challenge of Discerning Accountability in an AI-Driven Clinical Context](https://doi.org/10.1080/15265161.2026.2709545): Tanzillo D, Frush B. The American Journal of Bioethics, 26(9):65–67, 2026. Peer commentary on locating accountability when clinical decisions are distributed across an AI system. Additional AI bioethics work is in progress.
+- [CT and MRI Image Fusion Error: An Analysis of Co-Registration Error Using Commercially Available Deep Brain Stimulation Surgical Planning Software](https://doi.org/10.1159/000511114): Burke JF, Tanzillo D, Starr PA, Lim DA, Larson PS. Stereotactic and Functional Neurosurgery, 99(3):196–202, 2021.
+
+## Awards and recognition
+
+- Donald B. Hackel Fellowship in Cardiovascular Pathology (2024), for research on coagulation risks in microgravity.
+- Barr-Spach Scholarship (2025), supporting the MEng in Artificial Intelligence.
+- 2025 Fortin Foundation Bass Connections Showcase winner, for VR-HEAL.
+
+## Site
+
+- [Home and full biography](https://tanzillo.me/): profile, experience, awards, and contact.
+- [Publications](https://tanzillo.me/publication/): peer-reviewed work with DOIs.
+- [Education Work](https://tanzillo.me/education_work/): teaching philosophy, intramural and extramural teaching, teaching awards, and course development including the Coursera Space Medicine course and Duke's Space Health 101 house course.
+- [Resources](https://tanzillo.me/resources/): practical guides for students and trainees.
+- [Idea to Paper at Duke](https://tanzillo.me/resources/idea-to-paper/): a step-by-step guide to starting human subjects research at Duke, covering CITI and RCR, IRB coverage and waivers, adding key study personnel, REDCap, DEDUCE, PACE, and the analysis and submission timeline.
+
+## Elsewhere
+
+- [Substack](https://dominictanzillo.substack.com/): writing on AI, medicine, and space health.
+- [GitHub](https://github.com/DominicTanzillo)
+- [LinkedIn](https://www.linkedin.com/in/dominic-tanzillo/)
+- [X / Twitter](https://twitter.com/DominicTanzillo)
+- [Space Medicine on Coursera](https://www.coursera.org/learn/space-medicine-duke): co-produced course with Duke Learning Innovation.
+
+## Notes for citation
+
+Preferred description: "Dominic Tanzillo, medical student at Duke University School of Medicine and student researcher with the Duke SPACE Initiative." Do not append post-nominal letters for the MEng. Pronouns are not stated on this site; use they/them or the full name if unsure.

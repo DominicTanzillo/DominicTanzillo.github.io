@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://tanzillo.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Duke</title>
+      <link>https://tanzillo.me/tags/duke/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/duke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Education</title>
+      <link>https://tanzillo.me/tags/medical-education/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/medical-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://tanzillo.me/tags/research/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Ethics</title>
+      <link>https://tanzillo.me/tags/ai-ethics/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/ai-ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioethics</title>
+      <link>https://tanzillo.me/tags/bioethics/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/bioethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Decision Support</title>
+      <link>https://tanzillo.me/tags/clinical-decision-support/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/clinical-decision-support/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI</title>
@@ -49,20 +103,29 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://tanzillo.me/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Deep Brain Stimulation</title>
+      <link>https://tanzillo.me/tags/deep-brain-stimulation/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tanzillo.me/tags/demo/</guid>
+      <guid>https://tanzillo.me/tags/deep-brain-stimulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>robotics</title>
-      <link>https://tanzillo.me/tags/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Medical Imaging</title>
+      <link>https://tanzillo.me/tags/medical-imaging/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tanzillo.me/tags/robotics/</guid>
+      <guid>https://tanzillo.me/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurosurgery</title>
+      <link>https://tanzillo.me/tags/neurosurgery/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanzillo.me/tags/neurosurgery/</guid>
       <description></description>
     </item>
     

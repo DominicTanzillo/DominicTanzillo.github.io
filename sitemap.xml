@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tanzillo.me/resources/idea-to-paper/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tanzillo.me/education_work/teaching-philosophy/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,7 +30,58 @@
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tanzillo.me/</loc>
-    <lastmod>2026-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/duke/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/medical-education/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/research/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/resources/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/</loc>
+    <lastmod>2026-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/authors/admin/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/publication_types/2/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/ai-ethics/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/authors/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/authors/benjamin-frush/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/bioethics/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/categories/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/tags/clinical-decision-support/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/publication_types/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/categories/publications/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/publication/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tanzillo.me/publication/quotidian-harms-vanishing-hands/</loc>
+    <lastmod>2026-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tanzillo.me/education_work/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
@@ -50,41 +104,31 @@
     <loc>https://tanzillo.me/project/skin-cancer-ai/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/tags/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/publication/ct-mri-fusion-error/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/authors/daniel-a.-lim/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/tags/deep-brain-stimulation/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/authors/john-f.-burke/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/tags/medical-imaging/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/tags/neurosurgery/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://tanzillo.me/authors/paul-s.-larson/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tanzillo.me/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tanzillo.me/authors/admin/</loc>
-  </url><url>
-    <loc>https://tanzillo.me/authors/</loc>
-  </url><url>
-    <loc>https://tanzillo.me/categories/</loc>
+    <loc>https://tanzillo.me/authors/philip-a.-starr/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tanzillo.me/post/</loc>
-  </url><url>
-    <loc>https://tanzillo.me/publication_types/</loc>
-  </url><url>
-    <loc>https://tanzillo.me/publication/</loc>
   </url><url>
     <loc>https://tanzillo.me/talk/</loc>
   </url>

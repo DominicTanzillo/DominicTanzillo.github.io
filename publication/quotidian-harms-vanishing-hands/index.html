@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.120.4">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Dominic Tanzillo">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A peer commentary on how accountability becomes difficult to locate when clinical decisions are distributed across an AI system and the human hands behind them are no longer visible.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://tanzillo.me/publication/quotidian-harms-vanishing-hands/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.96d0f9f87c71e9837523462c6cebc18c.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://tanzillo.me/publication/quotidian-harms-vanishing-hands/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@DominicTanzillo">
+  <meta property="twitter:creator" content="@DominicTanzillo">
+  
+  <meta property="og:site_name" content="Dominic Tanzillo">
+  <meta property="og:url" content="https://tanzillo.me/publication/quotidian-harms-vanishing-hands/">
+  <meta property="og:title" content="Quotidian Harms, Vanishing Hands: the Challenge of Discerning Accountability in an AI-Driven Clinical Context | Dominic Tanzillo">
+  <meta property="og:description" content="A peer commentary on how accountability becomes difficult to locate when clinical decisions are distributed across an AI system and the human hands behind them are no longer visible."><meta property="og:image" content="https://tanzillo.me/img/user-full.jpg">
+  <meta property="twitter:image" content="https://tanzillo.me/img/user-full.jpg"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2026-08-27T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2026-08-27T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+<meta name="keywords" content="Dominic Tanzillo, Dom Tanzillo, D. Tanzillo, Dominic P. Tanzillo, Duke University, medical student, MEng AI, Duke SPACE Initiative, AI ethics, AI bioethics, clinical accountability, American Journal of Bioethics, space medicine, bioastronautics, NASA HRP, Human Research Program, CSF leaks, SANS, Spaceflight Associated Neuro-ocular Syndrome, microgravity, decompression sickness, global health, virtual reality medical training, VR-HEAL, interventional radiology, IR, anatomy teaching assistant, SkinTag Labs, skin cancer AI, Coursera space medicine, low-resource healthcare, medical education, Duke Bass Connections, Pratt School of Engineering, Duke COMIDA, gestational diabetes, Spherical Cows Podcast, NASA Neutral Buoyancy Lab, NASA NBL, Tietronix Medical, coagulation microgravity, Hackel Fellowship, Barr-Spach Scholarship, Duke School of Medicine, Duke IRB guide, clinical research at Duke, tanzillo.me">
+
+
+<link rel="canonical" href="https://tanzillo.me/publication/quotidian-harms-vanishing-hands/">
+
+
+<link rel="alternate" type="text/plain" href="https://tanzillo.me/llms.txt" title="llms.txt">
+
+
+
+
+
+
+  
+  
+    
+  
+    
+  
+  
+  
+    
+  
+  
+    
+  
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Dominic Tanzillo"
+    },
+    {
+      "@type": "Person",
+      "name": "Benjamin Frush"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "headline": "Quotidian Harms, Vanishing Hands: the Challenge of Discerning Accountability in an AI-Driven Clinical Context",
+  "identifier": "https://doi.org/10.1080/15265161.2026.2709545",
+  "isPartOf": {
+    "@type": "Periodical",
+    "name": "Am J Bioeth"
+  },
+  "sameAs": "https://doi.org/10.1080/15265161.2026.2709545",
+  "url": "https://tanzillo.me/publication/quotidian-harms-vanishing-hands/"
+}</script>
+
+
+
+  <title>Quotidian Harms, Vanishing Hands: the Challenge of Discerning Accountability in an AI-Driven Clinical Context | Dominic Tanzillo</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/WhiteLogo.png" alt="Dominic Tanzillo"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/education_work/"><span>Education Work</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources/"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <div class="article-container py-3">
+      <h1 itemprop="name">Quotidian Harms, Vanishing Hands: the Challenge of Discerning Accountability in an AI-Driven Clinical Context</h1>
+
+      
+
+      
+      
+
+
+
+<meta content="2026-08-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2026-08-27 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Dominic Tanzillo</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/benjamin-frush/">Benjamin Frush</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>August 2026</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder"></i>
+    <a href="/categories/publications/">Publications</a></span>
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://tanzillo.me/publication/quotidian-harms-vanishing-hands/&amp;text=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://tanzillo.me/publication/quotidian-harms-vanishing-hands/&amp;t=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context&amp;body=https://tanzillo.me/publication/quotidian-harms-vanishing-hands/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://tanzillo.me/publication/quotidian-harms-vanishing-hands/&amp;title=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context%20https://tanzillo.me/publication/quotidian-harms-vanishing-hands/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://tanzillo.me/publication/quotidian-harms-vanishing-hands/&amp;title=Quotidian%20Harms,%20Vanishing%20Hands:%20the%20Challenge%20of%20Discerning%20Accountability%20in%20an%20AI-Driven%20Clinical%20Context" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1080/15265161.2026.2709545" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2709545" target="_blank" rel="noopener">
+    <i class="fas fa-external-link-alt mr-1"></i>
+    Journal
+  </a>
+
+
+</div>
+
+
+      
+      
+    </div>
+  </div>
+</div>
+
+  <div class="article-container">
+
+    
+
+    
+    <div class="row">
+      <div class="col-md-10 mx-auto">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>The American Journal of Bioethics</em>, 26(9), 65–67</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/ai-ethics/">AI Ethics</a>
+  
+  <a class="badge badge-light" href="/tags/bioethics/">Bioethics</a>
+  
+  <a class="badge badge-light" href="/tags/clinical-decision-support/">Clinical Decision Support</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://tanzillo.me">Dominic Tanzillo</a></h5>
+      <h6 class="card-subtitle">Medical Student | AI and Space Health Researcher</h6>
+      <p class="card-text" itemprop="description">Building medical tools for low-resource settings — from space to Earth.</p>
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/#contact" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/DominicTanzillo" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/DominicTanzillo" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.linkedin.com/in/dominic-tanzillo/" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://dominictanzillo.substack.com/" target="_blank" rel="noopener">
+              <i class="fas fa-pen-nib"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.1791d7ac7fd557b5feb48b31fdd16371.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          2026 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/DominicTanzillo" target="_blank" rel="noopener" title="Tweets"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://www.instagram.com/dominictanzillo/" target="_blank" rel="noopener" title="Pictures"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tanzillo.me/sitemap.xml
+
+LLM-Friendly-Summary: https://tanzillo.me/llms.txt

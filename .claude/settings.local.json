@@ -30,7 +30,8 @@
       "Bash(rsync:*)",
       "Bash(curl:*)",
       "Bash(nslookup:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(git pull:*)"
     ]
   }
 }
